@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieFan</string>
+    <string name="error">API error</string>
+    <string name="network_error">Internet error</string>
+    <string-array name="navigation">
+        <item>Incoming Movies</item>
+        <item>To-Watch Movies</item>
+        <item>Daily Movie</item>
+    </string-array>
+</resources>
