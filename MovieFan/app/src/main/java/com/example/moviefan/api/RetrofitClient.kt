@@ -28,7 +28,7 @@ object RetrofitClient {
 
                 //nowy URL z dodatkowym parametrem: API KEY
                 val url = originalUrl.newBuilder()
-                    .addQueryParameter("api_key", "4edcccf580c3d65280aff8cc078349d4") //klucz API
+                    .addQueryParameter("api_key", "ADD_API_KEY_HERE") //klucz API
                     .build()
 
                 //nowe żądanie
